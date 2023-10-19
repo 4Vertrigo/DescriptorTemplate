@@ -1,0 +1,21 @@
+{
+  "Type" : "Job:Script",
+  "SubApplication" : "",
+  "FileName" : "",
+  "Host" : "",
+  "FilePath" : "",
+  "CreatedBy" : "azure_pipelines", 
+  "Description" : "Created by azure pipelines",
+  "Arguments" : [ "" ],
+  "RunAs" : "s_user_task_hom",
+  "Application" : "ABCBrasil",
+  "Name" : "",
+  "When" : {
+    "WeekDays" : [ "NONE" ],
+    "MonthDays" : [ "NONE" ],
+    "ToTime" : "",
+    "FromTime" : "",
+    "MonthDaysCalendar" : "",
+    "DaysRelation" : "OR"
+  }
+}
